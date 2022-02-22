@@ -1,0 +1,6 @@
+{
+    "require": {
+        "abraham/twitteroauth": "^3.3",
+        "kreait/firebase-php": "^6.1.0"
+    }
+}
